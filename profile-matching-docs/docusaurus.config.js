@@ -6,7 +6,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo-interlocking-uh-red.ico',
-  organizationName: 'University of Houston',
+  organizationName: '97morningstar',
   projectName: 'Profile Matching',
   themeConfig: {
     navbar: {
