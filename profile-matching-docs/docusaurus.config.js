@@ -2,7 +2,7 @@ module.exports = {
   title: 'Profile Matching',
   tagline: 'The tagline of my site',
   url: 'https://97morningstar.github.io',
-  baseUrl: '/profile-matching-docs',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo-interlocking-uh-red.ico',
