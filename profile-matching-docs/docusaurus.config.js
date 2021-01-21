@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Profile Matching',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://97morningstar.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -39,10 +39,6 @@ module.exports = {
             {
               label: 'Style Guide',
               to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
             },
           ],
         },
